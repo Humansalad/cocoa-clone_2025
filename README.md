@@ -1,3 +1,3 @@
 # Kakao clone 2025
 
-Last chance!
+HTML and CSS is content of this project!
